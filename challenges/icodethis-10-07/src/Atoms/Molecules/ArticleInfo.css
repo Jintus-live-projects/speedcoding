@@ -1,0 +1,15 @@
+h2 {
+    text-transform: capitalize;
+    margin-bottom: 44px;
+}
+
+.article--author {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.article--date {
+    font-size: 14px;
+    color: var(--text-color-secondary);
+}

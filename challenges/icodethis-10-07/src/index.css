@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+:root {
+    --accent-color: #6C79F7;
+    --text-color-primary: #312D6E;
+    --text-color-secondary: #A7A7B5;
+    --text-bg-color: #FFF;
+}
+
+body {
+    color: var(--text-color-primary);
+    line-height: 1;
+    font-family: 'Heebo', sans-serif;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+

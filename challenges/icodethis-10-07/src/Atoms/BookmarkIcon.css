@@ -1,0 +1,9 @@
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0;
+    color: var(--text-color-primary);
+}
+
+.material-symbols-outlined.active {
+    font-variation-settings: 'FILL' 1;
+    color: var(--accent-color);
+}
